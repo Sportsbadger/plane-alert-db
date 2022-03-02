@@ -162,7 +162,7 @@ A33D79,N308EL,Eli Lilly & Co,Gulfstream G500,GA5C,Civ,Pharmaceutical,Polio Vacci
 A952A4,N70EL,Enterprise Rent-A-Car,Gulfstream G600,GA6C,Civ,Car Rental,Extra Insurance,Weekend Away,As Seen on TV,https://en.wikipedia.org/wiki/Enterprise_Rent-A-Car
 A31F52,N300A,Exxon Mobil Corp,Gulfstream G550,GLF5,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
 A004B4,N100A,Exxon Mobil Corp,Gulfstream G650 ER,GLF6,Civ,Oil Spill,Man Made Climate Change,Climate Crisis,As Seen on TV,https://xkcd.com/1732/
-A16E72,N1911W,Fifth Third Bank NA,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
+A16E72,N1911W,Fifth Third Bank,Gulfstream G550,GLF5,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 A55D7D,N445DB,First Data Corp,Bombardier Global 5000,GL5T,Civ,Aaaaaaaand its gone,Bunch of Bankers,Scrooge McDuck,As Seen on TV,https://youtu.be/KWHsS866kXQ?t=2
 4008BA,G-OFOM,Formula One Management,BAe 146 100,B461,Civ,Formula 1,Lews Hamilton,Crash Verstappen,As Seen on TV,https://www.formula1.com
 A7FAE3,N613LF,Frank Lowry,Gulfstream G550,GLF5,Civ,Bizjet,Frank Lowry,Westfield,As Seen on TV,https://en.wikipedia.org/wiki/Frank_Lowy
@@ -258,7 +258,6 @@ A875A2,N644RV,Rafael Vinoly Architects,Dassault Falcon 2000,F2TH,Civ,Architect,W
 4079F3,G-RTNA,Raytheon Systems,B350C Super King Air,B350,Civ,Arms Company,Security,Lasers,As Seen on TV,https://www.raytheon.com/uk
 4B199D,HB-JSF,Robert Bosch,Bombardier Challenger 650,CL60,Civ,Bizjet,Power Tools,Jobs A Good Un,As Seen on TV,https://en.wikipedia.org/wiki/Robert_Bosch_GmbH
 4B184A,HB-JFE,Rolex,Bombardier Global 6000,GLEX,Civ,Wrist Watch,Oyster,How Much,As Seen on TV,https://www.rolex.com
-45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,As Seen on TV,https://w.wiki/4n6X
 43EA86,M-ABJA,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 43EA06,M-ABGV,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
 43E90D,M-ABEU,Ryanair,Learjet 45XR,LJ45,Civ,Baggage Costs Extra,Not Cattle Class,Customer Service,As Seen on TV,https://en.wikipedia.org/wiki/Michael_O%27Leary_(businessman)
@@ -447,7 +446,7 @@ A324A9,N301SR,Essar Shipping and Logistics,Boeing 737-BBJ,B737,Civ,Man Made Clim
 400066,VP-CAA,Fiore Aviation,McDonnell Douglas DC-9 87,MD87,Civ,Must Be Nice,How The Other Half Live,I Am Old,Climate Crisis,https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-9
 42439E,VP-BVV,Gainjet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,http://www.gainjet.com
 896012,A6-AAM,Gama Aviation,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
-4000EE,VP-BBW,Gama Aviation,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+4000EE,VP-BBW,Suleiman Kerimov,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Oligarch,Climate Crisis,Oligarch,https://xkcd.com/1732/
 4D0214,LX-LTI,Global Jet Luxembourg,Airbus ACJ318-112 Elite,A318,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4D023B,LX-MCO,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4D0212,LX-MCE,Global Jet Luxembourg,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -456,14 +455,14 @@ A324A9,N301SR,Essar Shipping and Logistics,Boeing 737-BBJ,B737,Civ,Man Made Clim
 A9E51E,N737AT,Hillwood Airways,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
 4D209F,9H-GGG,Jet Aviation Flight Services,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 AB6B1E,N835BZ,Jet Edge,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
-484494,P4-BBJ,Jet Magic,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://www.jetmagic.com
-3C78AF,D-ANEO,K5-Aviation,Airbus A319-153NSL,A19N,Civ,Private Airline,Airbus Corporate Jet,Climate Crisis,Climate Crisis,http://www.k5-aviation.com/de/portfolio_page/
-3C70B8,D-ALEX,K5-Aviation,Airbus ACJ319 115CJ,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,http://www.k5-aviation.com/de/portfolio_page/
-3C00AF,D-APGS,K5-Aviation,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,http://www.k5-aviation.com/de/portfolio_page/
+484494,P4-BBJ,Jet Magic,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
+3C78AF,D-ANEO,Alexander Abramov,Airbus A319-153NSL,A19N,Civ,Man Made Climate Change,Oligarch,Climate Crisis,Oligarch,https://xkcd.com/1732/
+3C70B8,D-ALEX,Alexander Abramov,Airbus ACJ319 115CJ,A319,Civ,Man Made Climate Change,Oligarch,Climate Crisis,Oligarch,https://xkcd.com/1732/
+3C00AF,D-APGS,Alexander Abramov,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Oligarch,Climate Crisis,Oligarch,https://xkcd.com/1732/
 44071E,OE-LJG,M Jet Aviation,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 4B18B7,HB-JJJ,Nomad Aviation AG,Airbus ACJ319-133X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://www.nomadjet.com
 4844B8,P4-LIG,Petroff Air,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
-A9E60B,N737LE,Polaris Aviation Solutions,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732
+A9E60B,N737LE,Leonard Blavatnik,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Oligarch,Climate Crisis,Oligarch,https://xkcd.com/1732
 800429,VT-IAH,Reliance Commercial Dealers,Airbus ACJ319-115X,A319,Civ,Man Made Climate Change,Airbus Corporate Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 8960AD,A6-RJZ,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
 89605E,A6-DAS,Royal Jet,Boeing 737-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
@@ -520,16 +519,6 @@ AA6922,N770BB,Yucaipa Companies LLC,Boeing 757,B752,Civ,Man Made Climate Change,
 4CA98B,EI-ICG,Irish Coastguard,Sikorsky S-92 A,S92,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Irish_Coast_Guard
 5080FD,UR-CBF,Aerovis Airlines,Antonov An-12 A,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
 5083BC,UR-CPZ,Aerovis Airlines,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
-508020,UR-82073,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
-50801F,UR-82072,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
-50801D,UR-82009,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
-50801C,UR-82008,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
-50801B,UR-82007,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
-508015,UR-82027,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
-508003,UR-82029,Antonov Airlines,Antonov An-124 100,A124,Civ,Absolute Unit,Vashe Zdorovye,Cargo,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan
-508029,UR-09307,Antonov Airlines,Antonov An-22,AN22,Civ,Big Bird,I Must Break You,Cargo,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-22
-508035,UR-82060,Antonov Airlines,Antonov An-225 Mriya,A225,Civ,Vodka Burner,The Absolute Unit,Dream,Da Comrade,https://youtu.be/6sggQqdvqHs
-5081F9,UR-13395,Antonov Airlines,Antonov An-26 B,AN26,Civ,Got It Where It Counts,Vashe Zdorovye,Curl,Da Comrade,https://en.wikipedia.org/wiki/Antonov_An-26
 1533AD,RA-78765,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 152C2A,RA-76842,Aviacon Zitotrans,Ilyushin IL-76TD,IL76,Civ,Cargo,Chonky Boy,Tail Gunner,Da Comrade,https://en.wikipedia.org/wiki/Ilyushin_Il-76
 51008B,EW-435TI,Aviakompania Grodno,Antonov An-12 BP,AN12,Civ,Ere Me Now,Vashe Zdorovye,Cargo,Da Comrade,https://youtu.be/BDn2iGWE4Ec?t=18
@@ -1092,7 +1081,7 @@ C027B3,C-FPAW,Pratt & Whitney Engine Services,Boeing 747-SP,B74S,Civ,Odd Engines
 731821,EP-FAA,Qeshm Fars Air,Boeing 747-281B,B742,Civ,Iran,Revolutionary Guard,Sanctions,Distinctive,https://twitter.com/Gerjon_/status/1427506100295938091?s=20
 731822,EP-FAB,Qeshm Fars Air,Boeing 747-281F,B742,Civ,Iran,Revolutionary Guard,Sanctions,Distinctive,https://twitter.com/Gerjon_/status/1427506100295938091?s=20
 AAAC0E,N787RR,Rolls Royce,Boeing 747-267B,B742,Civ,Testbed,That Looks Swollen,Odd,Distinctive,https://cdn.jetphotos.com/full/5/14664_1532022759.jpg
-14FC10,RA-64528,Rossiya Special Flight Squadron,Tupolev Tu-214SR,T214,Gov,Doomsday Plane,Comms Relay,Presidential,Distinctive,https://theaviationist.com/tag/tu-214sr/
+14FC10,RA-64528,Rossiya Special Flight Squadron,Tupolev Tu-214SR,T204,Gov,Doomsday Plane,Comms Relay,Presidential,Distinctive,https://theaviationist.com/tag/tu-214sr/
 407928,G-CLJW,Royal Air Force,BAC Jet Provost T5A,JPRO,Mil,Jet Trainer,Used To Have A Prop,Flying Rust Bucket,Distinctive,https://www.raf.mod.uk
 156DCE,RF-93646,Russian Air Force,Ilyushin IL-76VKP,IL76,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
 156DCD,RF-93645,Russian Air Force,Ilyushin IL-86 VKP,IL86,Mil,Airborne Command Post,Comms Relay,Doomsday Plane,Distinctive,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -1106,7 +1095,7 @@ ADFEB4,73-1677,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of Th
 ADFEB3,73-1676,United States Air Force,E4B Nightwatch,B742,Gov,Its The End Of The World And I Know It,Doomsday Plane,Bye,Distinctive,https://en.wikipedia.org/wiki/Boeing_E-4
 A9844F,N712JM,USAF,Boeing 737-BBJ,B737,Mil,Testbed,Unicorn,,Distinctive,https://foxtrotalpha.jalopnik.com/the-worlds-most-secretive-737-is-really-the-usafs-most-1686479619
 4B2F15,HB-RVP,Verein Fliegermuseum,Hawker Hunter T68,HUNT,Civ,Jet Fighter,Transonic,Historic,Distinctive,https://en.wikipedia.org/wiki/Hawker_Hunter
-A19B53,N202VG,Virgin Galactic,Spaceship Two,SS2,Civ,Rocket Ship,Up Up And Away,Nope-mobile,Distinctive,https://en.wikipedia.org/wiki/SpaceShipTwo
+A19B53,N202VG,Virgin Galactic,Spaceship Two,SS2,Civ,Rocket Ship,Up Up And Away,Nope Mobile,Distinctive,https://en.wikipedia.org/wiki/SpaceShipTwo
 AA0348,N744VG,Virgin Orbit,Boeing 747,B744,Civ,Cosmic Girl,I Thought You Was A Pilot Not An Astronaut,Rockets,Distinctive,https://w.wiki/4mcc
 A0552B,N120RB,VREF Management,Cirrus Jet Vision SF50,SF50,Civ,Safe Return,CAPS,Backpack Tadpole V-Jet,Distinctive,https://cirrusaircraft.com/aircraft/vision-jet
 15211F,RA-74015,VSV,Antonov An-74,AN72,Civ,Odd,Chonky Boy,Cheburashka,Distinctive,https://en.wikipedia.org/wiki/Antonov_An-74
@@ -1273,8 +1262,7 @@ E17283,LV-WJC,Government of Santa Fe,AgustaWestland AW.109,A109,Gov,Santa Fe,Oma
 0D0C40,XC-MED,Government of the State of Yucatan,Bell 429 GlobalRanger,B429,Gov,Yucatan,Mauricio Vila Dosal,Government,Governments,https://en.wikipedia.org/wiki/Yucat%C3%A1n
 02A1CE,TS-IOO,Government of Tunisia,Boeing 737-BBJ,B737,Gov,Tunisia,Kais Saied,Government,Governments,https://en.wikipedia.org/wiki/Tunisia
 06804E,5X-UGF,Government of Uganda,Gulfstream G550,GLF5,Gov,Must Be Nice,Yoweri Museveni,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Uganda
-508226,UR-PAB,Government of Uganda,Mil Mi-8MTV,MI8,Gov,Ukraine,Yoweri Museveni,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Ukraine
-50815F,UR-ABA,Government of Ukraine,Airbus ACJ319 115CJ,A319,Gov,Ukraine,Maidan Revolution,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Ukraine
+508226,UR-PAB,Government of Uganda,Mil Mi-8MTV,MI8,Gov,Uganda,Yoweri Museveni,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Uganda
 E909FB,CX-CIB,Government Of Uruguay,BAe 125 700A,H25B,Gov,Uruguay,Luis Lacalle Pou,Government,Governments,https://en.wikipedia.org/wiki/Uruguay
 E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Luis Lacalle Pou,Government,Governments,https://en.wikipedia.org/wiki/Uruguay
 800B69,VT-UPJ,Government of Uttar Pradesh,B200 Super King Air,BE20,Gov,Uttar Pradesh,Anandiben Patel,Government,Governments,http://up.gov.in
@@ -1289,7 +1277,7 @@ E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Lu
 507C4F,UK001,Government of Uzbekistan,Boeing 787,B788,Gov,Uzbekistan,Shavkat Mirziyoyev,Government,Governments,https://www.gov.uz/en
 888163,VN-A268,Government of Vietnam,Embraer Legacy 600,E35L,Gov,Vietnam,Nguyen Xuan Phuc,Government,Governments,https://en.wikipedia.org/wiki/Government_of_Vietnam
 890034,7O-VIP,Government of Yemen,Boeing 757,B752,Gov,Yemen,Maeen Abdulmalik Saeed,Government,Governments,https://en.wikipedia.org/wiki/Yemen
-08A081,9J-ONE,Government of Zambia,Bombardier Challenger 604,CL60,Gov,Zambia,Hakainde Hichilema,Government,Governments,https://www.parliament.gov.zm
+08A081,9J-ONE,Government of Zambia,Bombardier Challenger 604,CL60,Gov,Zambia,Maeen Abdulmalik Saeed,Government,Governments,https://www.parliament.gov.zm
 E01111,LQ-OEI,Government Province of La Pampa,Turbo Commander,AC90,Gov,Argentina,Alberto Fernandez,Government,Governments,https://en.wikipedia.org/wiki/La_Pampa_Province
 E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://www.ceara.gov.br
 E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Jair Bolsonaro,Government,Governments,http://www.parana.pr.gov.br
@@ -1676,17 +1664,17 @@ A3CC9A,N344EM,Draken Intl,Aermacchi MB.339 CB,M339,Civ,Aggressor Squadron,Callsi
 A72B11,N561EM,Draken Intl,Dassault Mirage F1M,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
 A76523,N576EM,Draken Intl,Dassault Mirage F1M,MRF1,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://youtu.be/jk0gBZtTYUA
 A9E61F,N737M,Eagle Intl Establishment,Boeing 737NG-BBJ2,B738,Civ,Man Made Climate Change,Boeing Business Jet,Mercenary,Hired Gun,https://www.eagleinternationalgroup.com
-3CD066,D-CGFM,Gesellschaft für Flugzieldarstellung,Learjet 31A,LJ31,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD068,D-CGFO,Gesellschaft für Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD067,D-CGFN,Gesellschaft für Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD063,D-CGFJ,Gesellschaft für Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD061,D-CGFH,Gesellschaft für Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD05D,D-CGFD,Gesellschaft für Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD05C,D-CGFC,Gesellschaft für Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD05B,D-CGFB,Gesellschaft für Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD05A,D-CGFA,Gesellschaft für Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD05F,D-CGFF,Gesellschaft für Flugzieldarstellung,Learjet 36A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
-3CD05E,D-CGFE,Gesellschaft für Flugzieldarstellung,Learjet 36A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD066,D-CGFM,Gesellschaft fur Flugzieldarstellung,Learjet 31A,LJ31,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD068,D-CGFO,Gesellschaft fur Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD067,D-CGFN,Gesellschaft fur Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD063,D-CGFJ,Gesellschaft fur Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD061,D-CGFH,Gesellschaft fur Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD05D,D-CGFD,Gesellschaft fur Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD05C,D-CGFC,Gesellschaft fur Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD05B,D-CGFB,Gesellschaft fur Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD05A,D-CGFA,Gesellschaft fur Flugzieldarstellung,Learjet 35A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD05F,D-CGFF,Gesellschaft fur Flugzieldarstellung,Learjet 36A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
+3CD05E,D-CGFE,Gesellschaft fur Flugzieldarstellung,Learjet 36A,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://www.gfd.de/en
 AB7E0A,N84FN,L-3 Communications Flight,Learjet 35EW,LJ35,Civ,Shapeshifter,Target Practice,Feierabend,Hired Gun,https://w.wiki/4mch
 AA198E,N75VC,Sunshine Aero,NA Sabreliner,SBR1,Civ,Shapeshifter,Target Practice,Testbed,Hired Gun,https://twitter.com/ameliairheart/status/1465473234732785668?s=20
 A80A69,N617TA,Tactial Air Support,Northrop F-5,F5,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://tacticalairsupport.com/
@@ -1694,10 +1682,10 @@ C0126A,C-FGZH,Top Aces Inc,Douglas A-4N Skyhawk,A4,Civ,Aggressor Squadron,Callsi
 4B2F0B,HB-RVF,A-Jet AG,F+W Emmen DH-115 Vampire MK55,VAMP,Civ,Fighter Jet,I Am Old,What We Do In The Shadows,Historic,https://en.wikipedia.org/wiki/De_Havilland_Vampire
 400B3F,G-ANAF,Aero Legendsa,Douglas C-47A Dakota,DC3,Mil,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain
 ACEDC6,N932H,Airborne Support Inc.,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
-C06B21,C-GOOU,ALCI Aviation Ltd,Douglas C-47A BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
-C04F42,C-GEAJ,ALCI Aviation Ltd,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
-C032E0,C-FTGX,ALCI Aviation Ltd,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
-C032D1,C-FTGI,ALCI Aviation Ltd,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C06B21,C-GOOU,ALCI Aviation,Douglas C-47A BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C04F42,C-GEAJ,ALCI Aviation,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C032E0,C-FTGX,ALCI Aviation,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
+C032D1,C-FTGI,ALCI Aviation,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Indestructible,Historic,https://en.wikipedia.org/wiki/Basler_BT-67
 C057C6,C-GHGF,Alfred Wegener Institute,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Polar 6,Historic,https://www.awi.de/en/expedition/aircraft/polar-5-6.html
 C046ED,C-GAWI,Alfred Wegener Institute,Douglas DC-3 BT-67,DC3T,Civ,Turboprop,Rejuvenated,Polar 5,Historic,https://www.awi.de/en/expedition/aircraft/polar-5-6.html
 4B208C,HB-MIM,Ariel Ludi,Bucker Bu 133C Jungmeister,BU33,Civ,Biplane,Advanced Trainer,History,Historic,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_133_Jungmeister
@@ -1922,7 +1910,7 @@ A24F76,N248TX,Private,Extra EA-300LT,E300,Civ,Aerobatics,Do A Barrel Roll,Tourin
 AB8265,N8401S,Private,Lake Renegade LA-250,LA25,Civ,Amphibian,Seaplane,Like A Duck To Water,Joe Cool,https://en.wikipedia.org/wiki/Lake_Renegade
 404CE3,G-CDDP,Private,Laser Z-230,LAKR,Civ,Do A Barrel Roll,High G,Aerobatics,Joe Cool,https://w.wiki/4o4r
 403347,G-TBAG,Private,Murphy Renegade 912,RENE,Civ,Biplane,Barnstormer,Cool,Joe Cool,https://w.wiki/4nzf
-40226D,G-NORD,Private,Nord NC.854,NC85,Civ,You Came Here In That Thing,Highwing,Nope-mobile,Joe Cool,https://en.wikipedia.org/wiki/Nord_NC.850
+40226D,G-NORD,Private,Nord NC.854,NC85,Civ,You Came Here In That Thing,Highwing,Nope Mobile,Joe Cool,https://en.wikipedia.org/wiki/Nord_NC.850
 38AC1B,F-AZKM,Private,North American Rockwell OV-10A Bronco,V10,Civ,Eye In The Sky,Observation,Twin Boom,Joe Cool,http://www.warbirdalley.com/ov10.htm
 40307A,G-BRVL,Private,Pitts Special S-1C,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
 405697,G-OKAY,Private,Pitts Special S-1E,PTS1,Civ,Biplane,Display Team,Aerobatics,Joe Cool,https://en.wikipedia.org/wiki/Pitts_Special
@@ -2793,6 +2781,7 @@ A5782B,N4510,Private,Grob G-520 Egrett,EGRT,Civ,Hiiiiiigh In The Sky,All About T
 7CF9D5,A47-011,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
 7CF9D3,A47-009,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
 7CF9D6,A47-012,Royal Australian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,Oxcart,https://www.airforce.gov.au
+45F425,C-172,Royal Danish Air Force,Bombardier Challenger 604,CL60,Mil,Electonic Reccon,Covert,Surveillance,Oxcart,https://w.wiki/4n6X
 478121,53,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,http://www.airvectors.net/avfalcon.html
 478120,41,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,http://www.airvectors.net/avfalcon.html
 142F5C,RA-12124,Russian Air Force,Antonov An-12 PPS,AN12,Mil,Jammer,ECM,Cub,Oxcart,https://en.wikipedia.org/wiki/Russian_Air_Force
@@ -3136,180 +3125,181 @@ ADFDF8,82-8000,US Government,Boeing VC25A,B742,Gov,Air Force One,Government,POTU
 43C146,ZE700,The Royal Squadron,BAe 146-100 VIP,B461,Gov,Yes Maam,The Queen,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
 43C705,ZE708,The Royal Squadron,BAe 146-200 C3,B462,Gov,Yes Maam,The Queen,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
 43C704,ZE707,The Royal Squadron,BAe 146-200 C3,B462,Gov,Yes Maam,The Queen,Red Carpet,Royal Aircraft,https://en.wikipedia.org/wiki/Elizabeth_II
-405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
-AD46BF,N9546T,Aerographics (DOJ),Cessna 210 Centurion,C210,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A674DF,N515JW,Aerographics Inc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A4CBEB,N408SB,Aircraft Associates Inc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AB74F2,N83713,Aircraft Associates Inc (DOJ),Bell 412,B412,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AB74CC,N83700,Aircraft Associates Inc (DOJ),Bell 412,B412,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A43218,N37GR,Aircraft Associates Inc (DOJ),Bell 412,B412,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A1ECF1,N223JC,Aircraft Associates Inc (DOJ),Bell 412EP,B412,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-4012A1,G-VALK,ALTO Aerospace Ltd,B200 Super King Air,BE20,Gov,Surveillance,Covert,Spyplane,Sock Puppet,https://www.altoaero.com
-4009B4,G-WPNS,Britten-Norman Aircraft Ltd,BN Defender BN-2T-4R,BN2P,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://en.wikipedia.org/wiki/Britten-Norman
-A75568,N57165,Brown Helicopter (DOJ),Bell 206B Jet Ranger,B06,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-407757,G-OUEG,Catreus,Bombardier Global 6000,GLEX,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.catreus.co.uk
-406EEC,G-RSXP,Catreus,Cessna Citation XLS,C56X,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.catreus.co.uk
-AA6025,N768KD,Central Intelligence Agency,CASA CN-235,CN35,Gov,CIA,Covert,Up To No Good,Sock Puppet,https://www.therenditionproject.org.uk/flights/companies/index.html
-A64465,N5025,Central Intelligence Agency,CASA CN-235,CN35,Gov,CIA,Covert,Up To No Good,Sock Puppet,https://www.therenditionproject.org.uk/flights/companies/index.html
-A44973,N3755P,Central Intelligence Agency,L-100-30 Hercules,C130,Gov,CIA,Covert,Up To No Good,Sock Puppet,https://www.therenditionproject.org.uk/flights/companies/index.html
-A4F670,N419K,Department of Homeland Security,B300 Super King Air,BE30,Gov,Surveillance,Covert,Spyplane,Sock Puppet,https://www.dhs.gov
-A4E6C5,N415AT,Department Of Justice (DOJ),Bell 407,B407,Gov,Surveillance,Covert,US Dept Of Justice,Sock Puppet,https://www.justice.gov
-43ED4B,2-WKTJ,Diamond Executive Aviation,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.dea.aero
-407BDF,G-WKTS,Diamond Executive Aviation,C90 King Air,BE9L,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.dea.aero
-407B57,G-WKTO,Diamond Executive Aviation,C90 King Air,BE9L,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.dea.aero
-40759B,G-WKTG,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
-406870,G-DMNG,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
-406661,G-EMPP,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
-406658,G-DMPP,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
-40785B,G-WKTI,Diamond Executive Aviation,DA62-MPP,DA62,Civ,Surveillance,Covert,,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-407637,G-WKTH,Diamond Executive Aviation,DA62-MPP,DA62,Civ,Surveillance,Covert,,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-40686F,G-YDEA,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.dea.aero
-406809,G-ZDEA,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.dea.aero
-406726,G-PAPE,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.dea.aero
-400E85,G-DJET,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.dea.aero
-A3A5DB,N334ND,FBI,Cessna 206H,C206,Gov,FBI,Covert,Surveillance,Sock Puppet,https://www.cjr.org/watchdog/how-buzzfeed-news-revealed-hidden-spy-planes-in-us-airspace.php
-A65921,N508RB,Five Point Aerial Survey,Cessna 208B,C208,Civ,Palm Beach County Sheriff,Covert,,Sock Puppet,https://www.buzzfeednews.com/article/peteraldhous/hidden-spy-planes
-ADBAD9,N984JS,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AAF9D8,N806TH,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A36932,N319KS,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AD6BDA,N964JR,Fvx Research (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AB5C81,N831EM,Jeal Air (DOJ),BAe 125,H25B,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A72E8C,N562CB,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A4D817,N411CP,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A327E1,N302MP,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A1EC96,N223EM,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A7F64F,N612BK,Kqm Aviation (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AB1551,N813JH,Kqm Aviation (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A7650F,N576DS,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A41050,N361DB,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A2B573,N274BB,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A9036A,N680CA,Meta Special Aerospace,B200 Super King Air,BE20,Mil,Surveillance,Covert,Spyplane,Sock Puppet,https://meta.aero/msa
-4069D9,G-LBSB,Ministry of Defence,B350C Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-AD64DB,N962PB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AD645E,N962JB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-ACC6B5,N922MK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AC8B2B,N907WK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A846DD,N632TK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A8464D,N632MR,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A81E30,N622FH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A7E68F,N608SH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A6C75D,N536GR,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A66261,N510KS,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A46F56,N385RB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A4349B,N370JH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-ADC362,N986W,National Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AD4B3C,N956D,National Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A71AB8,N557PG,National Aircraft Leasing (DOJ),Cessna Citation V Ultra,C560,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AD8CAF,N972SM,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AD3019,N949RL,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A9C265,N728MP,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A6286B,N496WW,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A2EC92,N288JY,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A86862,N64057,National Aircraft Leasing Corp (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AB36F1,N8210G,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A37D92,N324EB,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A25CD5,N251SR,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A251BB,N249DB,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A24DEF,N248CF,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A2104E,N232DW,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A37EC5,N324SJ,National Aircraft Leasing Corp (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-ADC1C3,N986DK,Nbr Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A6718E,N514NY,Nbr Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A34C1A,N311SB,Nbr Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-ADAFFE,N981MR,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AC97AB,N910LF,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A9CEFF,N731CL,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A51A7C,N428MT,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A0AE77,N143GM,Nby Productions (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A6D306,N539MY,Ng Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A6A3DC,N527KM,Ng Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A2F6FD,N290RM,Ng Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-ACC2EC,N921LS,Ng Research (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-405B28,G-TDSA,NOR Leasing (Police),Cessna F406 Caravan II,F406,Civ,Covert,Spyplane,The Police,Sock Puppet,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-401116,G-BVJT,NOR Leasing (Police),Cessna F406 Caravan II,F406,Civ,Covert,Spyplane,The Police,Sock Puppet,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
-ADAF83,N981GT,Northwest Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A1100A,N168GP,Obr Leasing (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AC9E93,N912EX,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A4BC6E,N404KR,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A36622,N318SJ,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A0AB21,N142LJ,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A7EEC5,N610AG,Obr Leasing (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A622CD,N495BJ,Obr Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A83822,N629ET,Otv Leasing (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-ADC293,N986MT,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AB0D1B,N811AH,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A00C4B,N102BR,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A67138,N514KM,Otv Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-C077D8,C-GTJZ,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C06CF2,C-GPGR,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C06625,C-GMRS,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C05570,C-GGJF,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C0548F,C-GGAO,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C05001,C-GEHS,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C02DB4,C-FRHZ,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C00444,C-FBPZ,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C021C6,C-FMUN,PAL Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C0205C,C-FMGP,PAL Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C055B0,C-GGLR,PAL Aerospace,Bombardier Challenger 604,CL60,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C00020,C-FABF,PAL Aerospace,Cessna Citation SII,C550,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C01897,C-FJIC,PAL Aerospace,Cessna Citation X,C56X,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C0549D,C-GGBC,PAL Aerospace,Dassault Falcon 900LX,F900,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C005E9,C-FCGE,PAL Aerospace,DHC-8-102A,DH8A,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C0532C,C-GFMX,PAL Aerospace,DHC-8-314,DH8C,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-C01E5B,C-FLMW,PAL Aerospace,Gulfstream G280,G280,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://palaerospace.com/en/our-services
-ACAEF9,N916WR,Psl Surveys (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AC19C5,N879WM,Psl Surveys (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A5B556,N467TS,Psl Surveys (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-AD56F0,N959JT,Psl Surveys (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A8A872,N657TP,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A68960,N520EP,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A29A7D,N267RH,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A1488A,N182EM,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A0AE7C,N143GS,Pxw Services (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-407A19,G-MDSI,Ravenair,Pilatus PC-12 NGX,PC12,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://ravenair.co.uk
-406763,G-RVNP,Ravenair,Vulcanair P.68C,P68,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://ravenair.co.uk
-AC872B,N906TM,Rkt Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A59D5B,N461AJ,Rkt Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-A37A7D,N323LP,Rkt Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-ACA29B,N913JC,Rkt Productions (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Sock Puppet,https://www.justice.gov
-400F2B,G-CDZT,RVL Aviation Ltd,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-400A84,G-RAFL,RVL Aviation Ltd,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-400A75,G-RAFK,RVL Aviation Ltd,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-4076FE,G-REXA,RVL Aviation Ltd,B200GT Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-4010AF,G-BWLF,RVL Aviation Ltd,Cessna 404 Titan,C404,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-400CAD,G-MIND,RVL Aviation Ltd,Cessna 404 Titan,C404,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-401E92,G-EGLT,RVL Aviation Ltd,Cessna C310,C310,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-400CB0,G-BODY,RVL Aviation Ltd,Cessna C310,C310,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-400CAC,G-NOSE,RVL Aviation Ltd,Cessna C402,C402,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-4078D7,G-RVLG,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-407118,G-RVLY,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-400CA9,G-FIND,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-407117,G-RVLX,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-407116,G-RVLW,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-401785,G-AWEX,RVL Aviation Ltd,Piper PA-28 Cherokee,P28A,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-407359,G-RVVE,RVL Aviation Ltd,Saab 340F,SF34,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-400722,G-RVGB,RVL Aviation Ltd,Saab 340F,SF34,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.rvl-group.com
-A1CD07,N215KS,Sbs Prgm Ofc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-407990,G-SADB,Skyborne Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-ADDBAB,N992SK,Some Shady US Gov Dept,Sikorsky S-92,S92,Civ,Black Ops,Up To No Good,Why So Secretive ,Sock Puppet,https://bit.ly/3rpxuMM
-40665B,G-COBS,Thales UK,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-4404D6,OE-FMF,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-440378,OE-VDP,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-440377,OE-VDO,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Sock Puppet,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
-A006AF,N100WG,Total Helicopters Unlimited (DOJ),Bell 429 GlobalRanger,B429,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-A9A74E,N721AL,Us Dept Of Justice (DOJ),DHC-8-402Q,DH8D,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-AD7EE5,N969PL,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-A32309,N301A,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-A1B021,N208EB,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-AB371B,AB371B,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-A2440B,N245RB,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-A22AEF,N239LF,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
-A21FBC,N236KS,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Sock Puppet,https://www.justice.gov
+405EC4,G-DOSC,Acrobat Ltd,DA42-MPP,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da42-mpp/overview
+405D6F,G-DOSB,Acrobat Ltd,Diamond Aircraft DA42,DA42,Gov,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3p7pbahf
+AD46BF,N9546T,Aerographics (DOJ),Cessna 210 Centurion,C210,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A674DF,N515JW,Aerographics Inc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A4CBEB,N408SB,Aircraft Associates Inc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AB74F2,N83713,Aircraft Associates Inc (DOJ),Bell 412,B412,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AB74CC,N83700,Aircraft Associates Inc (DOJ),Bell 412,B412,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A43218,N37GR,Aircraft Associates Inc (DOJ),Bell 412,B412,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A1ECF1,N223JC,Aircraft Associates Inc (DOJ),Bell 412EP,B412,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+4012A1,G-VALK,ALTO Aerospace Ltd,B200 Super King Air,BE20,Gov,Surveillance,Covert,Spyplane,Oxcart,https://www.altoaero.com
+4009B4,G-WPNS,Britten-Norman Aircraft Ltd,BN Defender BN-2T-4R,BN2P,Civ,Surveillance,Covert,Spyplane,Oxcart,https://en.wikipedia.org/wiki/Britten-Norman
+A75568,N57165,Brown Helicopter (DOJ),Bell 206B Jet Ranger,B06,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+407757,G-OUEG,Catreus,Bombardier Global 6000,GLEX,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.catreus.co.uk
+406EEC,G-RSXP,Catreus,Cessna Citation XLS,C56X,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.catreus.co.uk
+AA6025,N768KD,Central Intelligence Agency,CASA CN-235,CN35,Gov,CIA,Covert,Up To No Good,Oxcart,https://www.therenditionproject.org.uk/flights/companies/index.html
+A64465,N5025,Central Intelligence Agency,CASA CN-235,CN35,Gov,CIA,Covert,Up To No Good,Oxcart,https://www.therenditionproject.org.uk/flights/companies/index.html
+A44973,N3755P,Central Intelligence Agency,L-100-30 Hercules,C130,Gov,CIA,Covert,Up To No Good,Oxcart,https://www.therenditionproject.org.uk/flights/companies/index.html
+A4F670,N419K,Department of Homeland Security,B300 Super King Air,BE30,Gov,Surveillance,Covert,Spyplane,Oxcart,https://www.dhs.gov
+A4E6C5,N415AT,Department Of Justice (DOJ),Bell 407,B407,Gov,Surveillance,Covert,US Dept Of Justice,Oxcart,https://www.justice.gov
+43ED4B,2-WKTJ,Diamond Executive Aviation,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
+407BDF,G-WKTS,Diamond Executive Aviation,C90 King Air,BE9L,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
+407B57,G-WKTO,Diamond Executive Aviation,C90 King Air,BE9L,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
+40759B,G-WKTG,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3yvyvhw4
+406870,G-DMNG,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3yvyvhw4
+406661,G-EMPP,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3yvyvhw4
+406658,G-DMPP,Diamond Executive Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3yvyvhw4
+40785B,G-WKTI,Diamond Executive Aviation,DA62-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3yvyvhw4
+407637,G-WKTH,Diamond Executive Aviation,DA62-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Oxcart,https://tinyurl.com/3yvyvhw4
+40686F,G-YDEA,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
+406809,G-ZDEA,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
+406726,G-PAPE,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
+400E85,G-DJET,Diamond Executive Aviation,Diamond Aircraft DA42,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.dea.aero
+A3A5DB,N334ND,FBI,Cessna 206H,C206,Gov,FBI,Covert,Surveillance,Oxcart,https://www.cjr.org/watchdog/how-buzzfeed-news-revealed-hidden-spy-planes-in-us-airspace.php
+A65921,N508RB,Five Point Aerial Survey,Cessna 208B,C208,Civ,Palm Beach County Sheriff,Covert,Surveillance,Oxcart,https://tinyurl.com/yv68u55f
+ADBAD9,N984JS,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AAF9D8,N806TH,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A36932,N319KS,Fvx Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AD6BDA,N964JR,Fvx Research (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AB5C81,N831EM,Jeal Air (DOJ),BAe 125,H25B,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A72E8C,N562CB,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A4D817,N411CP,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A327E1,N302MP,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A1EC96,N223EM,Kqm Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A7F64F,N612BK,Kqm Aviation (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AB1551,N813JH,Kqm Aviation (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A7650F,N576DS,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A41050,N361DB,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A2B573,N274BB,Lcb Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A9036A,N680CA,Meta Special Aerospace,B200 Super King Air,BE20,Mil,Surveillance,Covert,Spyplane,Oxcart,https://meta.aero/msa
+4069D9,G-LBSB,Ministry of Defence,B350C Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+AD64DB,N962PB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AD645E,N962JB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+ACC6B5,N922MK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AC8B2B,N907WK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A846DD,N632TK,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A8464D,N632MR,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A81E30,N622FH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A7E68F,N608SH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A6C75D,N536GR,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A66261,N510KS,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A46F56,N385RB,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A4349B,N370JH,National Aircraft Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+ADC362,N986W,National Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AD4B3C,N956D,National Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A71AB8,N557PG,National Aircraft Leasing (DOJ),Cessna Citation V Ultra,C560,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AD8CAF,N972SM,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AD3019,N949RL,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A9C265,N728MP,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A6286B,N496WW,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A2EC92,N288JY,National Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A86862,N64057,National Aircraft Leasing Corp (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AB36F1,N8210G,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A37D92,N324EB,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A25CD5,N251SR,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A251BB,N249DB,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A24DEF,N248CF,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A2104E,N232DW,National Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A37EC5,N324SJ,National Aircraft Leasing Corp (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+ADC1C3,N986DK,Nbr Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A6718E,N514NY,Nbr Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A34C1A,N311SB,Nbr Aviation (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+ADAFFE,N981MR,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AC97AB,N910LF,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A9CEFF,N731CL,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A51A7C,N428MT,Nby Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A0AE77,N143GM,Nby Productions (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A6D306,N539MY,Ng Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A6A3DC,N527KM,Ng Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A2F6FD,N290RM,Ng Research (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+ACC2EC,N921LS,Ng Research (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+405B28,G-TDSA,NOR Leasing (Police),Cessna F406 Caravan II,F406,Civ,Covert,Spyplane,The Police,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+401116,G-BVJT,NOR Leasing (Police),Cessna F406 Caravan II,F406,Civ,Covert,Spyplane,The Police,Oxcart,https://www.secret-bases.co.uk/cia-rendition.htm#MI5
+ADAF83,N981GT,Northwest Aircraft Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A1100A,N168GP,Obr Leasing (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AC9E93,N912EX,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A4BC6E,N404KR,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A36622,N318SJ,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A0AB21,N142LJ,Obr Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A7EEC5,N610AG,Obr Leasing (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A622CD,N495BJ,Obr Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A83822,N629ET,Otv Leasing (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+ADC293,N986MT,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AB0D1B,N811AH,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A00C4B,N102BR,Otv Leasing (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A67138,N514KM,Otv Leasing (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+C077D8,C-GTJZ,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C06CF2,C-GPGR,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C06625,C-GMRS,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C05570,C-GGJF,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C0548F,C-GGAO,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C05001,C-GEHS,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C02DB4,C-FRHZ,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C00444,C-FBPZ,PAL Aerospace,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C021C6,C-FMUN,PAL Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C0205C,C-FMGP,PAL Aerospace,B350 Super King Air,B350,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C055B0,C-GGLR,PAL Aerospace,Bombardier Challenger 604,CL60,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C00020,C-FABF,PAL Aerospace,Cessna Citation SII,C550,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C01897,C-FJIC,PAL Aerospace,Cessna Citation X,C56X,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C0549D,C-GGBC,PAL Aerospace,Dassault Falcon 900LX,F900,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C005E9,C-FCGE,PAL Aerospace,DHC-8-102A,DH8A,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C0532C,C-GFMX,PAL Aerospace,DHC-8-314,DH8C,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+C01E5B,C-FLMW,PAL Aerospace,Gulfstream G280,G280,Civ,Surveillance,Covert,Spyplane,Oxcart,https://palaerospace.com/en/our-services
+ACAEF9,N916WR,Psl Surveys (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AC19C5,N879WM,Psl Surveys (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A5B556,N467TS,Psl Surveys (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+AD56F0,N959JT,Psl Surveys (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A8A872,N657TP,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A68960,N520EP,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A29A7D,N267RH,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A1488A,N182EM,Pxw Services (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A0AE7C,N143GS,Pxw Services (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+407A19,G-MDSI,Ravenair,Pilatus PC-12 NGX,PC12,Civ,Surveillance,Covert,Spyplane,Oxcart,https://ravenair.co.uk
+406763,G-RVNP,Ravenair,Vulcanair P.68C,P68,Civ,Surveillance,Covert,Spyplane,Oxcart,https://ravenair.co.uk
+AC872B,N906TM,Rkt Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A59D5B,N461AJ,Rkt Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+A37A7D,N323LP,Rkt Productions (DOJ),Cessna 182T Skylane,C182,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+ACA29B,N913JC,Rkt Productions (DOJ),Cessna T206H Turbo Stationair,T206,Gov,US Dept Of Justice,Covert,Surveillance,Oxcart,https://www.justice.gov
+400F2B,G-CDZT,RVL Aviation Ltd,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+400A84,G-RAFL,RVL Aviation Ltd,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+400A75,G-RAFK,RVL Aviation Ltd,B200 Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+4076FE,G-REXA,RVL Aviation Ltd,B200GT Super King Air,BE20,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+4010AF,G-BWLF,RVL Aviation Ltd,Cessna 404 Titan,C404,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+400CAD,G-MIND,RVL Aviation Ltd,Cessna 404 Titan,C404,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+401E92,G-EGLT,RVL Aviation Ltd,Cessna C310,C310,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+400CB0,G-BODY,RVL Aviation Ltd,Cessna C310,C310,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+400CAC,G-NOSE,RVL Aviation Ltd,Cessna C402,C402,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+4078D7,G-RVLG,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+407118,G-RVLY,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+400CA9,G-FIND,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+407117,G-RVLX,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+407116,G-RVLW,RVL Aviation Ltd,Cessna F406 Caravan II,F406,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+401785,G-AWEX,RVL Aviation Ltd,Piper PA-28 Cherokee,P28A,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+407359,G-RVVE,RVL Aviation Ltd,Saab 340F,SF34,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+400722,G-RVGB,RVL Aviation Ltd,Saab 340F,SF34,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.rvl-group.com
+A1CD07,N215KS,Sbs Prgm Ofc (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+407990,G-SADB,Skyborne Aviation,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
+ADDBAB,N992SK,Some Shady US Gov Dept,Sikorsky S-92,S92,Civ,Black Ops,Up To No Good,Why So Secretive ,Oxcart,https://bit.ly/3rpxuMM
+40665B,G-COBS,Thales UK,DA42-MPP,DA42,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
+4404D6,OE-FMF,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
+440378,OE-VDP,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
+440377,OE-VDO,Thales UK,DA42-MPP,DA62,Civ,Surveillance,Covert,Spyplane,Oxcart,https://www.diamondaircraft.com/en/special-mission/aircraft/da62-mpp/overview
+A006AF,N100WG,Total Helicopters Unlimited (DOJ),Bell 429 GlobalRanger,B429,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A4C859,N407TP,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A35AEB,N315RR,United States Department Of Justice (DOJ),Bell 407,B407,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+AC06F0,N874TW,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A04ECF,N119NA,United States Department Of Justice (DOJ),Boeing 757,B752,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A9A74E,N721AL,Us Dept Of Justice (DOJ),DHC-8-402Q,DH8D,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+AD8888,N971N,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+AD7EE5,N969PL,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A32309,N301A,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A1B021,N208EB,Worldwide Aircraft Leasing (DOJ),Cessna 208B Caravan,C208,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+AB371B,AB371B,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A2440B,N245RB,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A22AEF,N239LF,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
+A21FBC,N236KS,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,Gov,US Dept Of Justice,Eye In The Sky,Surveillance,Oxcart,https://www.justice.gov
 43C39B,ZJ782,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
 43C39A,ZJ781,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
 43C399,ZJ780,Army Air Corps,Eurocopter AS365 N2 Dauphin,AS65,Mil,Special Ops,Special Air Service,22 SAS,Special Forces,https://en.wikipedia.org/wiki/No._658_Squadron_AAC
@@ -3332,15 +3322,15 @@ A21FBC,N236KS,Worldwide Aircraft Leasing Corp (DOJ),Cessna 206H Stationair,C206,
 43C383,ZH537,Joint Special Forces Aviation Wing,BN Islander CC2,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 43C388,ZG848,Joint Special Forces Aviation Wing,BN Islander R1,BN2P,Mil,Surveillance,Spyplane,651 Squadron RAF,Special Forces,https://www.eliteukforces.info/air-support/JSFAW
 AAE32E,N800PM,TCN Transport V LLC,Gulfstream G500,GLF5,Mil,Special Ops,Covert,Hostage Rescue,Special Forces,https://tinyurl.com/2p967kav
-AE640B,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE571E,12-1964,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE540C,22221,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE540B,11-1959,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE5409,21125,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4EEB,09-0042,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4EEA,08-0047,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4ECE,10-1952,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
-AE4A7E,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope-Mobile,Special Forces,https://w.wiki/3ksn
+AE640B,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE571E,12-1964,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE540C,22221,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE540B,11-1959,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE5409,21125,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4EEB,09-0042,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4EEA,08-0047,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4ECE,10-1952,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4A7E,07-1933,United States Air Force,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 ADEDBE,N997MG,United States Air Force,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADD70A,N991HA,United States Air Force,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
 ADC21E,N986HA,United States Air Force,DHC-8-202,DH8B,Mil,Special Operations,STOL,Covert,Special Forces,https://en.wikipedia.org/wiki/United_States_Special_Operations_Command
@@ -3506,17 +3496,17 @@ AE27A7,04-2021,United States Air Force,RQ-4 Global Hawk,Q4,Mil,UAV,Skynet,Uphold
 4078A3,G-POLV,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 4077FC,G-POLZ,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
 4077FB,G-POLX,National Police Air Service,Vulcanair P.68R,P68,Pol,ISR,Spyplane,Surveillance,UK National Police Air Service,https://www.airbornetechnologies.at/index.php/references/129-p68-npas
-AE571F,12-1965,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE571D,12-1963,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE571C,12-1962,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE540D,11-1961,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE540A,11-1958,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE5407,08-1951,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE5406,08-1950,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE4ECD,09-1946,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE498D,08-1939,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE498C,08-1938,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
-AE498B,08-1937,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope-Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571F,12-1965,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571D,12-1963,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE571C,12-1962,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE540D,11-1961,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE540A,11-1958,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5407,08-1951,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5406,08-1950,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4ECD,09-1946,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE498D,08-1939,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE498C,08-1938,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE498B,08-1937,United States Air Force,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE2863,86-0162,United States Air Force,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE2817,86-0174,United States Air Force,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE1CCE,86-0166,United States Air Force,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
@@ -3713,7 +3703,7 @@ AE0111,96-5300,United States Air Force,WC-130J Super Hercules,C30J,Mil,Hurricane
 A00001,N1,Federal Aviation Administration,Gulfstream G-IV,GLF4,Gov,Number 1,FAA,Vanity Plate,Vanity Plate,https://www.faa.gov
 A001B1,N1TF,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,AS Roma,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Thomas_H._Friedkin
 A0007F,N1F,Friedkin Intl,Gulfstream G650,GLF6,Civ,Bizjet,AS Roma,Vanity Plate,Vanity Plate,https://www.friedkin.com/adventure/friedkin-aviation-incorporated
-4D0207,LX-RAY,Global Jet Luxembourg,Gulfstream G650 ER,GLF6,Civ,Vanity Plate,X-RAY,Wilhelm Rontgen,Vanity Plate,https://w.wiki/4mg4
+4D0207,LX-RAY,Roman Abramovich,Gulfstream G650 ER,GLF6,Civ,Vanity Plate,Oligarch,Wilhelm Rontgen,Oligarch,https://w.wiki/4mg4
 404E15,G-EEKY,Horizon Flight Training,Piper PA-28 Cherokee,P28A,Civ,Revenge Of The Nerds,Training Wheels,Vanity Plate,Vanity Plate,https://youtu.be/1mRG2oAQhso
 43EA88,M-ISTY,INEOS,Gulfstream G280,G280,Civ,Play Misty For Me,Early Morning,Vanity Plate,Vanity Plate,https://youtu.be/rPOlakkBlj8
 43EA70,M-INTY,INEOS,Gulfstream G280,G280,Civ,Fresh,Mint,Vanity Plate,Vanity Plate,https://www.gulfstream.com/en
@@ -3750,7 +3740,7 @@ A00187,N1RP,Roger Penske,Gulfstream G550,GLF5,Civ,Bizjet,Not A Car,Vanity Plate,
 43ED3F,2-EASY,Skypark UK,Piaggio P-180 Avanti II,P180,Civ,Pusher Prop,Canards,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/Piaggio_P.180_Avanti
 C06AC2,C-GOLD,Skyservice Business Aviation,Bombardier Global 5000,GL5T,Civ,Bizjet,All That Glitters,Golden,Vanity Plate,https://youtu.be/ntG50eXbBtc
 48B9C9,SP-OOK,Smart Jet,Beechjet 400XP,BE40,Civ,Spy Vs Spy,Ghostly,Vanity Plate,Vanity Plate,https://www.smart-jet.pl/fleet
-402315,G-TAFF,Taff Smith,CASA 1.131E Jungmann,BU31,Civ,Biplane,Do A Barrel Roll,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_131_Jungmann
+402315,G-TAFF,Taff Smith,CASA 1-131E Jungmann,BU31,Civ,Biplane,Do A Barrel Roll,Vanity Plate,Vanity Plate,https://en.wikipedia.org/wiki/B%C3%BCcker_B%C3%BC_131_Jungmann
 43E96B,M-BIGG,The World Is Yours,Bombardier Global 5000,GL5T,Civ,Mr Small,Over Compensating,Vanity Plate,Vanity Plate,https://youtu.be/AER3Zg5S200
 43EA85,M-RBIG,Volantair LP,Learjet 45,LJ45,Civ,Mr Small,Vanity Plate,Sad,Vanity Plate,https://www.dailypost.co.uk/news/north-wales-news/who-mr-big-currently-flying-13778035
 43ECD8,2-SLOW,Volare Aviation,Bombardier Challenger 604,CL60,Civ,Bizjet,Must Be Nice,Hare and Tortoise,Vanity Plate,https://youtu.be/HHKwnUa3txo?t=21
